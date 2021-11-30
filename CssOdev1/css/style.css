@@ -1,0 +1,14 @@
+body{
+    background-color: #D5F5E3;
+    text-align: center;
+    list-style-position: inside;
+}
+
+nav{
+    border: 1px solid black;
+    border-radius: 5px;
+}
+ol li img{
+    width: 400px;
+    height: 300px;       
+}
